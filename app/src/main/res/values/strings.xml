@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyHour</string>
+    <string name="liquor_delivery_app">Liquor Delivery App</string>
+    <string name="signature_text">Powered by Codex Tech</string>
+</resources>
